@@ -3,210 +3,210 @@
         "id": "1",
         "day": "Sunday",
         "date": "03 April",
-        "sehri": "05 : 18 AM",
-        "iftari": "06 : 53 PM"
+        "sehri": "05 : 08 AM",
+        "iftari": "06 : 51 PM"
     },
     {
         "id": "2",
         "day": "Monday",
         "date": "04 April",
-        "sehri": "05 : 17 AM",
-        "iftari": "06 : 53 PM"
+        "sehri": "05 : 07 AM",
+        "iftari": "06 : 52 PM"
     },
     {
         "id": "3",
         "day": "Tuesday",
         "date": "05 April",
-        "sehri": "05 : 16 AM",
-        "iftari": "06 : 53 PM"
+        "sehri": "05 : 06 AM",
+        "iftari": "06 : 52 PM"
     },
     {
         "id": "4",
         "day": "Wednesday",
         "date": "06 April",
-        "sehri": "05 : 15 AM",
-        "iftari": "06 : 54 PM"
+        "sehri": "05 : 05 AM",
+        "iftari": "06 : 52 PM"
     },
     {
         "id": "5",
         "day": "Thursay",
         "date": "07 April",
-        "sehri": "05 : 14 AM",
-        "iftari": "06 : 54 PM"
+        "sehri": "05 : 04 AM",
+        "iftari": "06 : 52 PM"
     },
     {
         "id": "6",
         "day": "Friday",
         "date": "08 April",
-        "sehri": "05 : 13 AM",
-        "iftari": "06 : 54 PM"
+        "sehri": "05 : 03 AM",
+        "iftari": "06 : 52 PM"
     },
     {
         "id": "7",
         "day": "Saturday",
         "date": "09 April",
-        "sehri": "05 : 12 AM",
-        "iftari": "06 : 54 PM"
+        "sehri": "05 : 02 AM",
+        "iftari": "06 : 53 PM"
     },
     {
         "id": "8",
         "day": "Sunday",
         "date": "10 April",
-        "sehri": "05 : 11 AM",
-        "iftari": "06 : 55 PM"
+        "sehri": "05 : 01 AM",
+        "iftari": "06 : 53 PM"
     },
     {
         "id": "9",
         "day": "Monday",
         "date": "11 April",
-        "sehri": "05 : 10 AM",
-        "iftari": "06 : 55 PM"
+        "sehri": "05 : 01 AM",
+        "iftari": "06 : 53 PM"
     },
     {
         "id": "10",
         "day": "Tuesday",
         "date": "12 April",
-        "sehri": "05 : 09 AM",
-        "iftari": "06 : 55 PM"
+        "sehri": "05 : 00 AM",
+        "iftari": "06 : 53 PM"
     },
     {
         "id": "11",
         "day": "Wednesday",
         "date": "13 April",
-        "sehri": "05 : 08 AM",
-        "iftari": "06 : 55 PM"
+        "sehri": "04 : 59 AM",
+        "iftari": "06 : 53 PM"
     },
     {
         "id": "12",
         "day": "Thursday",
         "date": "14 April",
-        "sehri": "05 : 08 AM",
-        "iftari": "06 : 56 PM"
+        "sehri": "04 : 58 AM",
+        "iftari": "06 : 54 PM"
     },
     {
         "id": "13",
         "day": "Friday",
         "date": "15 April",
-        "sehri": "05 : 07 AM",
-        "iftari": "06 : 56 PM"
+        "sehri": "04 : 57 AM",
+        "iftari": "06 : 54 PM"
     },
     {
         "id": "14",
         "day": "Saturday",
         "date": "16 April",
-        "sehri": "05 : 06 AM",
-        "iftari": "06 : 56 PM"
+        "sehri": "04 : 57 AM",
+        "iftari": "06 : 54 PM"
     },
     {
         "id": "15",
         "day": "Sunday",
         "date": "17 April",
-        "sehri": "05 : 05 AM",
-        "iftari": "06 : 56 PM"
+        "sehri": "04 : 56 AM",
+        "iftari": "06 : 54 PM"
     },
     {
         "id": "16",
         "day": "Monday",
         "date": "18 April",
-        "sehri": "05 : 04 AM",
-        "iftari": "06 : 57 PM"
+        "sehri": "04 : 55 AM",
+        "iftari": "06 : 55 PM"
     },
     {
         "id": "17",
         "day": "Tuesday",
         "date": "19 April",
-        "sehri": "05 : 03 AM",
-        "iftari": "06 : 57 PM"
+        "sehri": "04 : 54 AM",
+        "iftari": "06 : 55 PM"
     },
     {
         "id": "18",
         "day": "Wednesday",
         "date": "20 April",
-        "sehri": "05 : 02 AM",
-        "iftari": "06 : 57 PM"
+        "sehri": "04 : 53 AM",
+        "iftari": "06 : 56 PM"
     },
     {
         "id": "19",
         "day": "Thursday",
         "date": "21 April",
-        "sehri": "05 : 01 AM",
-        "iftari": "06 : 58 PM"
+        "sehri": "04 : 52 AM",
+        "iftari": "06 : 56 PM"
     },
     {
         "id": "20",
         "day": "Friday",
         "date": "22 April",
-        "sehri": "05 : 01 AM",
-        "iftari": "06 : 58 PM"
+        "sehri": "04 : 51 AM",
+        "iftari": "06 : 56 PM"
     },
     {
         "id": "21",
         "day": "Saturday",
         "date": "23 April",
-        "sehri": "05 : 00 AM",
-        "iftari": "06 : 58 PM"
+        "sehri": "04 : 51 AM",
+        "iftari": "06 : 57 PM"
     },
     {
         "id": "22",
         "day": "Sunday",
         "date": "24 April",
-        "sehri": "04 : 59 AM",
-        "iftari": "06 : 59 PM"
+        "sehri": "04 : 50 AM",
+        "iftari": "06 : 57 PM"
     },
     {
         "id": "23",
         "day": "Monday",
         "date": "25 April",
-        "sehri": "04 : 58 AM",
-        "iftari": "06 : 59 PM"
+        "sehri": "04 : 49 AM",
+        "iftari": "06 : 57 PM"
     },
     {
         "id": "24",
         "day": "Tuesday",
         "date": "26 April",
-        "sehri": "04 : 57 AM",
-        "iftari": "06 : 59 PM"
+        "sehri": "04 : 48 AM",
+        "iftari": "06 : 57 PM"
     },
     {
         "id": "25",
         "day": "Wednesday",
         "date": "27 April",
-        "sehri": "04 : 57 AM",
-        "iftari": "06 : 59 PM"
+        "sehri": "04 : 47 AM",
+        "iftari": "06 : 58 PM"
     },
     {
         "id": "26",
         "day": "Thursday",
         "date": "28 April",
-        "sehri": "04 : 56 AM",
-        "iftari": "07 : 00 PM"
+        "sehri": "04 : 46 AM",
+        "iftari": "06 : 58 PM"
     },
     {
         "id": "27",
         "day": "Friday",
         "date": "29 April",
-        "sehri": "04 : 55 AM",
-        "iftari": "07 : 00 PM"
+        "sehri": "04 : 46 AM",
+        "iftari": "06 : 58 PM"
     },
     {
         "id": "28",
         "day": "Saturday",
         "date": "30 April",
-        "sehri": "04 : 54 AM",
-        "iftari": "07 : 00 PM"
+        "sehri": "04 : 45 AM",
+        "iftari": "06 : 59 PM"
     },
     {
         "id": "29",
         "day": "Sunday",
         "date": "01 May",
-        "sehri": "04 : 53 AM",
-        "iftari": "07 : 01 PM"
+        "sehri": "04 : 44 AM",
+        "iftari": "06 : 59 PM"
     },
     {
         "id": "30",
         "day": "Monday",
         "date": "02 May",
-        "sehri": "04 : 53 AM",
-        "iftari": "07 : 01 PM"
+        "sehri": "04 : 44 AM",
+        "iftari": "06 : 59 PM"
     }
 ]
